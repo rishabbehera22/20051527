@@ -1,8 +1,9 @@
 # HomePage
-![Homepage](screenshots/railyatra1.png)  
-![Homepage](screenshots/railyatra2.png)  
-![Homepage](screenshots/railyatra3.png)  
-![Homepage](screenshots/railyatra4.png)  
+  ![railyatra1](https://github.com/rishabbehera22/20051527/assets/105111090/ad375f4b-1902-492d-8d1c-0a26859e7f0e)
+![railyatra2](https://github.com/rishabbehera22/20051527/assets/105111090/c145add5-612f-475b-acca-5a5cd97d12bf)
+![railyatra3](https://github.com/rishabbehera22/20051527/assets/105111090/cd269b19-4f1e-444a-8c09-0ef3bf1d5c4f)
+![railyatra4](https://github.com/rishabbehera22/20051527/assets/105111090/6a42ea56-75c6-4c0f-a369-0c1d43c55c70)
+
 
 # Getting Started with Create React App
 
